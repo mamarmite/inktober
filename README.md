@@ -1,10 +1,14 @@
-# Inktober
+# 31 prétextes pour dessiner
+J'ai décidé de faire le inktober cette année pour me remettre au dessin. J'ai toujours aimé ça, ça fait partie de mes habiletés personnelles. Avec mes entreprises, je ne prenais plus le temps de dessiner.
 
-https://inktober.com/
+J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le défi 52 par la suite en 2022.
 
-## 2021
+[Le inktober](https://inktober.com/) c'est quoi : 
+> Jake Parker created Inktober in 2009 as a challenge to improve his inking skills and develop positive drawing habits. It has since grown into a worldwide endeavor with thousands of artists taking on the challenge every year.
 
-**Français**
+## Thèmes 2021
+
+### **Français**
 
 1. Crystal - Cristal - Une géode gigantesque
 2. Suit - habit - Un enfant qui se déguise en adulte
@@ -39,7 +43,7 @@ https://inktober.com/
 31. Risk - Risque
 
 
-**English**
+### **English**
 
 1. Crystal
 2. Suit
