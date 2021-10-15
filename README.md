@@ -20,8 +20,8 @@ https://inktober.com/
 12. Stuck - Prit du verbre Prendre - Un joueur de portal prisionner de deux portails trop près
 13. Roof - Toit - Deux amoureux sous un parapluie.
 14. Tick - Une tique, Un tic d'une montre, Une transaction à crédit - un tick de processeur.
-15. Helmet - Casque
-16. Compass - Bousole
+15. Helmet - Casque - Un genre de guerrir minuscule, vraiment inspiré du film Épique j'ai l'impression.
+16. Compass - Bousole 
 17. Collide - Entrer en collision
 18. Moon - Lune
 19. Loop - Boucle
