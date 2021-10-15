@@ -8,7 +8,7 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 
 ## Thèmes 2021
 
-### **Français**
+### **English** - **Français** - Dessin réalisé résumé
 
 1. Crystal - Cristal - Une géode gigantesque
 2. Suit - habit - Un enfant qui se déguise en adulte
@@ -41,38 +41,3 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 29. Patch - Correction 
 30. Slither - Glisser / Onduler
 31. Risk - Risque
-
-
-### **English**
-
-1. Crystal
-2. Suit
-3. Vessel
-4. Knot
-5. Raven
-6. Spirit
-7. Fan
-8. Watch
-9. Pressure
-10. Pick
-11. Sour
-12. Stuck
-13. Roof
-14. Tick
-15. Helmet
-16. Compass
-17. Collide
-18. Moon
-19. Loop
-20. Sprout
-21. Fuzzy
-22. Open
-23. Leak
-24. Extinct
-25. Splat
-26. Connect
-27. Spark
-28. Crispy
-29. Patch
-30. Slither
-31. Risk
