@@ -25,9 +25,9 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 13. Roof - Toit - Deux amoureux sous un parapluie.
 14. Tick - Une tique, Un tic d'une montre, Une transaction à crédit - un tick de processeur.
 15. Helmet - Casque - Un genre de guerrir minuscule, vraiment inspiré du film Épique j'ai l'impression.
-16. Compass - Bousole 
-17. Collide - Entrer en collision
-18. Moon - Lune
+16. Compass - Bousole - Une boussole avec une aiguille dans une mini mare d'eau
+17. Collide - Entrer en collision - Une collision entre 2 particules, qui créé des bosoms.
+18. Moon - Lune - une base lunaire d'exploitation.
 19. Loop - Boucle
 20. Sprout - Germer
 21. Fuzzy - Flou ou Confu
