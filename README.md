@@ -28,14 +28,14 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 16. Compass - Bousole - Une boussole avec une aiguille dans une mini mare d'eau
 17. Collide - Entrer en collision - Une collision entre 2 particules, qui créé des bosoms.
 18. Moon - Lune - une base lunaire d'exploitation.
-19. Loop - Boucle
-20. Sprout - Germer
-21. Fuzzy - Flou ou Confu
-22. Open - Ouvert
-23. Leak - Fuite
-24. Extinct - Disparue / Éteint
-25. Splat - Éclaboussure
-26. Connect - Connecté
+19. Loop - Boucle - Cycle de l'eau
+20. Sprout - Germer - une souche avec une repousse
+21. Fuzzy - Flou ou Confu - J'ai choisi confu comme dans fear and loathing in Las Vegas
+22. Open - Ouvert - Une vieille maison dans le bois creapy, marqué open
+23. Leak - Fuite - Un volcan en éruption
+24. Extinct - Disparue / Éteint - Un oranoutan dans sa forêt coupée
+25. Splat - Éclaboussure - Un bébé qui mange du spagetti
+26. Connect - Connecté - 
 27. Spark - Éteincelle
 28. Crispy - Croustillant
 29. Patch - Correction 
