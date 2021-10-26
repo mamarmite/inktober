@@ -35,7 +35,7 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 23. Leak - Fuite - Un volcan en éruption
 24. Extinct - Disparue / Éteint - Un oranoutan dans sa forêt coupée
 25. Splat - Éclaboussure - Un bébé qui mange du spagetti
-26. Connect - Connecté - 
+26. Connect - Connecté - Madamme sur son divan avec une intraveineuse de likes.
 27. Spark - Éteincelle
 28. Crispy - Croustillant
 29. Patch - Correction 
