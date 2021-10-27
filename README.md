@@ -36,7 +36,7 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 24. Extinct - Disparue / Éteint - Un oranoutan dans sa forêt coupée
 25. Splat - Éclaboussure - Un bébé qui mange du spagetti
 26. Connect - Connecté - Madamme sur son divan avec une intraveineuse de likes.
-27. Spark - Éteincelle
+27. Spark - Éteincelle - La puissance du Fantex, un monsieur en robe de chambre et des pantouffle qui génère beaucoup trop d'éteincelle
 28. Crispy - Croustillant
 29. Patch - Correction 
 30. Slither - Glisser / Onduler
