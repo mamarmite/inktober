@@ -5,6 +5,7 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 
 [Le inktober](https://inktober.com/) c'est quoi : 
 > Jake Parker created Inktober in 2009 as a challenge to improve his inking skills and develop positive drawing habits. It has since grown into a worldwide endeavor with thousands of artists taking on the challenge every year.
+
 > (traduction libre) Jake Parker a créé le défi Inktober en 2009 pour améliorer ses habiletés en dessins à l'encre et d'aouter dans ses habitudes une pratique positive du dessin. Depuis sa création, ce défi a grandi en effort mondial où des milliers d'artistes adopte ce défi chaque année.
 
 ## Thèmes 2021
