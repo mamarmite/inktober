@@ -15,31 +15,31 @@ J'espère que ce défi personnel me remette dedans. Je vais essayer de faire le 
 1. Crystal - Cristal - Une géode gigantesque
 2. Suit - habit - Un enfant qui se déguise en adulte
 3. Vessel - Vaisseau - Le Vaccin ARN, le vaisseau de la recette
-4. Knot - Noeud - 
-5. Raven - Corbeau - Un des corbeau de rick qui mange pickle rick.
-6. Spirit - Esprit - Le mood fâché d'une personne qui flippe une table
-7. Fan - Fan ou Évantail - Un poisson chat qui conduit un plane boat.
+4. Knot - Noeud - Un marcheur au baluchon
+5. Raven - Corbeau - Un des corbeaux de Rick and Morty qui mange pickle rick.
+6. Spirit - Esprit - L’état d’esprit d’une personne fâchée qui flippe une table
+7. Fan - Fan - Un poisson chat qui conduit un plane boat.
 8. Watch - Montre - L'objet qui regarde une montre oeil
-9. Pressure - Pression - Un exoskelette à la vapeur
+9. Pressure - Pression - Un exosquelette à la vapeur
 10. Pick - Pic à glace - Un grimpeur sur glace
 11. Sour - Sûr - Confection de fromage par une artisane
-12. Stuck - Prit du verbre Prendre - Un joueur de portal prisionner de deux portails trop près
-13. Roof - Toit - Deux amoureux sous un parapluie.
-14. Tick - Une tique, Un tic d'une montre, Une transaction à crédit - un tick de processeur.
-15. Helmet - Casque - Un genre de guerrir minuscule, vraiment inspiré du film Épique j'ai l'impression.
-16. Compass - Bousole - Une boussole avec une aiguille dans une mini mare d'eau
-17. Collide - Entrer en collision - Une collision entre 2 particules, qui créé des bosoms.
+12. Stuck - Prit - Un joueur de portal prisonnier de deux portails trop près
+13. Roof - Toit - deux amoureux sous un parapluie.
+14. Tick - un tick de processeur - La progression des bits dans un processeur
+15. Helmet - Casque - Un genre de guérier minuscule
+16. Compass - Boussole - Une boussole avec une aiguille dans une mini mare d'eau
+17. Collide - entrer en collision - Une collision entre 2 particules, qui créé des bosons.
 18. Moon - Lune - une base lunaire d'exploitation.
 19. Loop - Boucle - Cycle de l'eau
 20. Sprout - Germer - une souche avec une repousse
-21. Fuzzy - Flou ou Confu - J'ai choisi confu comme dans fear and loathing in Las Vegas
-22. Open - Ouvert - Une vieille maison dans le bois creapy, marqué open
+21. Fuzzy - Confu - Fear and loathing in Las Vegas
+22. Open - Ouvert - Une vieille maison dans le bois abandonnée, marqué open
 23. Leak - Fuite - Un volcan en éruption
 24. Extinct - Disparue / Éteint - Un oranoutan dans sa forêt coupée
-25. Splat - Éclaboussure - Un bébé qui mange du spagetti
-26. Connect - Connecté - Madamme sur son divan avec une intraveineuse de likes.
-27. Spark - Éteincelle - La puissance du Fantex, un monsieur en robe de chambre et des pantouffle qui génère beaucoup trop d'éteincelle
-28. Crispy - Croustillant - Un écureuil qui mange des arachides
+25. Splat - Éclaboussure - Un bébé qui mange du spaghetti
+26. Connect - Connecté - Madame sur son divan avec une intraveineuse de likes.
+27. Spark - Éteincelle - La puissance du Fantex
+28. Crispy - Croustillant - Un écureuil qui fait ses réserves avec des arachides
 29. Patch - Correction  - Un Joueur de synthétiseur devant un gros patchbay
-30. Slither - Glisser / Onduler - Des pieuvres controlleuses d'esprit
-31. Risk - Risque - Un selfie en hauteur
+30. Slither - Glisser / Onduler - Des pieuvres contrôleuse d'esprit
+31. Risk - Risque - Un égoportrait en hauteur
